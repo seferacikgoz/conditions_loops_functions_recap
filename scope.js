@@ -32,3 +32,12 @@ const fonks2 = () => {
 
 fonks2()
 console.log(sayi2++);
+
+if (sayi2 === 7){
+   let sonuc = "Merhaba"
+}
+else{
+    sonuc = "Nasilsin"
+  //  console.log(sonuc);
+}
+console.log(sonuc)
